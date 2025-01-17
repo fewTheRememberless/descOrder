@@ -1,10 +1,14 @@
 # Fastly organize messy files in a folder with this Python script
 
 
-## Create your virtual environment
+## Create your virtual environment for mecOs
 ```
 python -m venv
 ```
+## Create your virtual environment for Windows
+'''
+python -m venv venv
+'''
 
 ### Note: Ensure you specify the name venv for the virtual environment when running the command.
 
