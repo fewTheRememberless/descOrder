@@ -6,9 +6,9 @@
 python -m venv
 ```
 ## Create your virtual environment for Windows
-'''
+```
 python -m venv venv
-'''
+```
 
 ### Note: Ensure you specify the name venv for the virtual environment when running the command.
 
